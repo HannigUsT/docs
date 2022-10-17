@@ -1,4 +1,4 @@
-site_name: .
+site_name: RGB
 
 extra:
   generator: false
@@ -7,3 +7,6 @@ theme:
   name: material
   features:
     - header.autohide
+  palette:
+    primary: black
+    accent: deep orange
