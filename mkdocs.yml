@@ -13,3 +13,6 @@ theme:
   palette:
     primary: black
     accent: deep orange
+
+nav:
+  - .: index.md
