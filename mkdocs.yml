@@ -5,8 +5,11 @@ extra:
 
 theme:
   name: material
+  logo: 'https://cdn-icons-png.flaticon.com/512/0/14.png'
+  favicon: 'https://cdn-icons-png.flaticon.com/512/0/14.png'
   features:
     - header.autohide
+    - navigation.tabs
   palette:
     primary: black
     accent: deep orange
