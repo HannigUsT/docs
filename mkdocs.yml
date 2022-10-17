@@ -1,4 +1,9 @@
-site_name: ...
+site_name: 
+
+extra:
+  generator: false
 
 theme:
   name: material
+  features:
+    - header.autohide
